@@ -1,0 +1,8 @@
+logs/
+logs/runlog.log
+logs/level_log.log
+logs/level_log.info.log
+logs/level_log.debug.log
+
+.DS_Store
+*/.DS_Store 
